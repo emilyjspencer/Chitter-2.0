@@ -27,7 +27,67 @@
         alt=""
       >
 
+      Julia
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Jeni
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Indra
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Caroline
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
       Kat
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Lizzie
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Madeleine
     </div>
   </li>
   <li>
@@ -68,6 +128,26 @@
       >
 
       Jono
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Bonnie M
+    </div>
+  </li>
+  <li>
+    <div class="flex font-bold text-lg mb-4 block">
+      <img 
+        src=""
+        alt=""
+      >
+
+      Bonnie S
     </div>
   </li>
   
